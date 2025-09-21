@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is my second text file
+=======
+This is my second push
+>>>>>>> branch-danielM-2
